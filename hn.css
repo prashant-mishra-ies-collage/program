@@ -1,0 +1,77 @@
+#ten{
+    height: 300px;
+    width: 300px;
+    background-color: whitesmoke;
+    border-top-left-radius: 150px;
+    border-bottom-left-radius: 150px;
+    border: solid;
+    border-color: whitesmoke;
+    position: relative;
+    top: 200px;
+    left: 500px;
+    background-image:url(mai.jpg) ;
+    background-size: cover;
+}#nine{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(44, 239, 44);
+    border-radius: 100px;
+    position: relative;
+    top: 50px;
+    left: 50px;
+    background-image:url(nishant.jpg) ;
+    background-size: cover;
+}#one{
+    height: 30px;
+    width: 30px;
+    background-color: white;
+    position: relative;
+    top: 20px;
+    left: 25px;
+    display: inline-block;
+    flex-direction: row;
+    justify-content: center;
+     position: relative;
+    top: 150px;
+    left: 50px;
+border-radius: 30px;
+
+
+} #two{height: 30px;
+  
+    
+width: 30px;
+  position: relative;
+    top: 70px;
+    left: 100px;
+    
+background-color: white;
+border-radius: 50px;
+position: relative;
+top: 20px;
+left: 25px;
+display:inline-block;
+ flex-direction: row;
+    justify-content: center;
+    
+    
+}#three{
+height: 30px;
+width: 30px;
+background-color: white;
+border-radius: 50px;
+position: relative;
+top: 20px;
+left: 25px;
+ position: relative;
+    top: 70px;
+    left: 100px;
+display: inline-block;
+ 
+
+    justify-content: center;
+  
+    
+}body{
+    background-color: burlywood;
+}

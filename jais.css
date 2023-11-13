@@ -1,0 +1,153 @@
+#gol{
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+    background-color: black;
+    position: relative
+    top:300px;
+
+
+
+}
+body{
+   
+    
+}
+#one{
+    height: 10px;
+    width: 10px;
+    border-radius: 50px;
+    background-color: white;
+    position: relative;
+    left: 150px;
+   
+    
+    
+}#two{
+    height: 10px;
+    width: 10px;
+    border-radius: 50px;
+    background-color: white;
+    position: relative;
+    top: 20px;
+    left: 230px;
+
+    
+}#three{
+    height: 10px;
+    width: 10px;
+    border-radius: 50px;
+    background-color: white;
+    position: relative;
+    top: 80px;
+    left: 280px;
+   
+    
+   
+    
+}#four{
+    height: 10px;
+    width: 10px;
+    border-radius: 50px;
+    background-color: white;
+    position: relative;
+   top: 150px;
+   left: 280px;
+ 
+    
+    
+}#five{
+    height: 10px;
+    width: 10px;
+    border-radius: 50px;
+    background-color: white;
+    position: relative;
+    top: 220px;
+    left: 230px;
+  
+    
+
+}#six{
+    height: 10px;
+    width: 10px;
+    border-radius: 50px;
+    background-color: white;
+    position: relative;
+   top:240px ;
+   left: 150px;
+  
+    
+}#seven{
+    height: 10px;
+    width: 10px;
+    border-radius: 50px;
+    background-color: white;
+    position: relative;
+  left: 80px;
+  top: 210px;
+    
+}#eight{
+    height: 10px;
+    width: 10px;
+    border-radius: 50px;
+    background-color: white;
+    position: relative;
+    top: 150px;
+    left: 20px;
+   
+    
+}#nine{
+    height: 10px;
+    width: 10px;
+    border-radius: 50px;
+    background-color: white;
+    position: relative;
+   top: 80px;
+   left: 0px;
+    
+}#ten{
+    height: 10px;
+    width: 10px;
+    border-radius: 50px;
+    background-color: white;
+    position: relative;
+ top: 20px;
+ left: 10px;
+    
+}#eleven{
+    height: 10px;
+    width: 10px;
+    border-radius: 50px;
+    background-color: white;
+    position: relative;
+ top: 0px;
+ left: 10px;
+    
+}#twe{
+    height: 10px;
+    width: 10px;
+    border-radius: 50px;
+    background-color: white;
+    position: relative;
+  
+    
+}
+
+body{
+
+    
+}
+button{
+    color: #fff;
+    padding: 8px 22px;
+    border-radius: 6px;
+    background-color: #7d2ae8;
+    transition: all 0.2s ease;
+    height: 80px;
+    width: 150px;
+    font-size: 15px;
+    line-height: 80px;
+}button:active{
+    transform: scale(0.96);
+}
+

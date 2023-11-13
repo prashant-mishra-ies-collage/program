@@ -1,0 +1,61 @@
+
+ 
+ div{
+  background-color: black;
+  border-radius: 50px;
+  flex-direction: row;
+ justify-content:center;
+ }
+  
+body{
+  background-color: aqua;
+}
+
+
+
+#hai{
+ 
+padding: opx;  
+ color: brown;
+ flex-direction: row;
+ justify-content:center;
+ 
+ 
+ display: inline-block;
+ font-size: 25px;
+ height: 30px;
+ width: 200px;
+ background-color: lightskyblue;
+ text-align: center;
+ border-radius: 25px;
+
+ 
+}#bai{
+  color: brown;
+ 
+  flex-direction: row;
+ justify-content: center;
+  
+ display: inline-block;
+ font-size: 25px;
+ height: 30px;
+ width: 200px;
+ background-color: lightskyblue;
+ text-align: center;
+ border-radius: 25px;
+
+}#jai{
+  color: brown;
+
+  flex-direction: row;
+  justify-content: center;
+ display: inline-block;
+ font-size: 25px;
+ height: 30px;
+ width: 200px;
+ background-color: lightskyblue;
+text-align: center;
+border-radius: 25px;
+}
+
+
